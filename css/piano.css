@@ -1,0 +1,44 @@
+#fondo{
+  background-image: url("../imagenes/piano.jpg");
+}
+
+#pantera{
+  width: 1000px;
+  height: 1500px;
+  margin-bottom: 20px;
+}
+
+
+#cucaracha{
+  width: 1000px;
+  height: 1500px;
+}
+
+#nav1{
+  background-image: url("../imagenes/negro1.jpg");
+
+}
+
+
+#navbarSupportedContent li a{
+
+  text-decoration: none;
+  color:white;
+
+}
+
+#inicio{
+  color:white;
+}
+
+#piano{
+  background-color:black;
+}
+
+#guitarra{
+  background-color:black;
+}
+
+#flauta{
+  background-color: black;
+}

@@ -1,0 +1,41 @@
+#amarillo{
+  background-image: url("../imagenes/fondo3.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 600px;
+
+
+}
+#nav1{
+  background-image: url("../imagenes/negro1.jpg");
+
+}
+
+
+#navbarSupportedContent li a{
+
+  text-decoration: none;
+  color:white;
+
+}
+
+#inicio{
+  color:white;
+}
+
+#piano{
+  background-color:black;
+}
+
+#guitarra{
+  background-color:black;
+}
+
+#flauta{
+  background-color: black;
+}
+
+.guille{
+  width: 40%;
+  height: 40%;
+}

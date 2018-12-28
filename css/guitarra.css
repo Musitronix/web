@@ -1,0 +1,48 @@
+#fondo{
+  background-image: url("../imagenes/guitarra.jpg");
+}
+
+#nav1{
+  background-image: url("../imagenes/negro1.jpg");
+
+}
+
+
+#navbarSupportedContent li a{
+
+  text-decoration: none;
+  color:white;
+
+}
+
+#inicio{
+  color:white;
+}
+
+#piano{
+  background-color:black;
+}
+
+#guitarra{
+  background-color:black;
+}
+
+#flauta{
+  background-color: black;
+}
+#imagine{
+  width: 1000px;
+  height: 1500px;
+  margin-bottom: 10px;
+}
+
+#imagine1{
+  width: 1000px;
+  height: 1500px;
+  margin-bottom: 20px;
+}
+#danza{
+  width: 1000px;
+  height: 1000px;
+
+}

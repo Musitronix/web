@@ -1,0 +1,46 @@
+#solfeo{
+  width: 900px;
+  height: 400px;
+}
+
+#sol{
+  width: 500px;
+  height: 150px;
+}
+#amarillo{
+  background-image: url("../imagenes/fondo3.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 600px;
+
+
+}
+
+#nav1{
+  background-image: url("../imagenes/negro1.jpg");
+
+}
+
+
+#navbarSupportedContent li a{
+
+  text-decoration: none;
+  color:white;
+
+}
+
+#inicio{
+  color:white;
+}
+
+#piano{
+  background-color:black;
+}
+
+#guitarra{
+  background-color:black;
+}
+
+#flauta{
+  background-color: black;
+}
